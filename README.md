@@ -6,7 +6,7 @@
 
 *E-mail*: [arygroup@gmail.com](arygroup@gmail.com)
 
-Linkein: [https://www.linkedin.com/in/vongruz](https://www.linkedin.com/in/vongruz)
+*Linkein*: [https://www.linkedin.com/in/vongruz](https://www.linkedin.com/in/vongruz)
 
 
 # Intro text
