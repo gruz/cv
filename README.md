@@ -6,6 +6,10 @@
 
 *E-mail*: [arygroup@gmail.com](arygroup@gmail.com)
 
+*Jabber*: [gruz@alpha-labs.net](gruz@alpha-labs.net)
+
+*Jabber*: [gruz@jabber.org](gruz@jabber.org)
+
 *Linkedin*: [https://www.linkedin.com/in/vongruz](https://www.linkedin.com/in/vongruz)
 
 
