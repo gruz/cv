@@ -39,9 +39,14 @@ Linux happy user
 Skills array. Key is a skill name, value is a  skill level (1 to 10).
 1 - lowest, 10 - the ideal knowledge level
 
+> Since there is no criteria to determine knowledge level, here is my rating assumtion. 
+
+> If I rate myself as 5, I assume that there are many people which know a subject better (6-7) and much better (8-9) then me. I assume that 10 reachable by very talented persons.
+
+
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla    | 8    | 2004 | 2016     |
+| Joomla!   | 8    | 2004 | 2016     |
 | Word Press| 2    | 2010 | 2010     |
 
 
