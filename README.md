@@ -48,6 +48,7 @@ Skills array. Key is a skill name, value is a  skill level (1 to 10).
 |-----------|------|------|----------|
 | Joomla!   | 8    | 2004 | 2016     |
 | Word Press| 2    | 2010 | 2010     |
+| Drupal    | 1    | 2011 | 2011     |
 
 
 > Programming, database and script languages
