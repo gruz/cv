@@ -204,6 +204,57 @@ DESCRIPTION:
 
 > Projects and web-sites worth of mentioning
 
+*Title:* Alberta Tactical Rifle Supply
+
+*Description:* A web-selling guns and parts in Canada.
+
+Team project.
+
+My main role:
+
+- Created and customized complicated web-forms (gun constructor)
+- Created plugins to integrate shopping process with CanadaPost API to calculate package price based on weight and location
+- Created plugins to export data into XML
+- Various support and and update tasks
+
+
+Link: http://albertatacticalrifle.com/
+
+---
+
+*Title:* Arashi Do Martial Arts
+
+*Description:* A web-site introducing a network of martial arts clubs in Canada
+Team project.
+My main role:
+
+- Improving frontend functionality - JS and CSS part
+- Automating when possible previously manually-driven routine tasks
+- Editor staff support (creating various HOWTOs)
+- Various support and and update tasks 
+
+
+Link: http://arashido.com
+
+---
+
+*Title:* IT North
+
+*Description:* A company web-site
+
+Team project.
+
+My main role:
+
+- Improving frontend functionality - JS and CSS part
+- Creating, improving and updating various web-forms
+- Creating Google Maps API tied contact pages
+- Various support and and update tasks for over 40 company clients' web-sites
+
+
+Link: http://itnorth.ca
+
+
 ---
 TITLE:        Adron Research and Development company (adron.ua)
 
@@ -264,12 +315,12 @@ COMPANY:          ITnorth Network & Consulting Service Ltd.
 
 PERSON:           Mike Tanyi (mike.tanyi@itnorth.ca)
 
-PERSON_POSITION:  Creating clarity, fearlessly pursuing creative
+PERSON POSITION:  Creating clarity, fearlessly pursuing creative
 marketing, streamlining systems while questioning the status quo.
 
 MY POSITION:          Freelance Web Developer
 
-RECOMMENDATION_TEXT:
+RECOMMENDATION TEXT:
 
 	I have worked with Gruz for 2+ years and
 	have always been impressed with his work ethic, customer-centric
