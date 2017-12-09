@@ -47,30 +47,22 @@ Linux happy user
 
 > 1-2 means I have very basic experience. Sometimes only tutorials and some theory. 3-4 - I have some practice. If I rate myself as 5, I assume that there are many people which know a subject better (6-7) and much better (8-9) then me. I assume that 10 reachable by very talented persons.
 
-
-| Skill name| Level| Since| Last used|
-|-----------|------|------|----------|
-| Joomla!   | 8    | 2004 | 2017     |
-| Word Press| 2    | 2010 | 2010     |
-| Drupal    | 1    | 2011 | 2011     |
-
-
 > Programming, database and script languages
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| PHP       | 7    | 2001 | 2016      |
-| MySQL     | 6    | 2004 | 2016      |
-| JS        | 6    | 2000 | 2016      |
-| CSS       | 8    | 2000 | 2016      |
+| PHP       | 7    | 2001 | 2017      |
+| MySQL     | 6    | 2004 | 2017      |
+| PostgreSQL| 4    | 2017 | 2017      |
+| JS        | 6    | 2000 | 2017      |
+| CSS       | 8    | 2000 | 2017      |
 
 > Programming patterns and technologies
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| MVC       | 7    | 2013 | 2016      |
-| AJAX      | 6    | 2004 | 2016      |
-| jQuery    | 6    | 2008 | 2016      |
+| MVC       | 7    | 2013 | 2017      |
+| AJAX      | 6    | 2004 | 2017      |
 | Socket    | 4    | 2017 | 2017      |
 
 > Frameworks / technologies
@@ -81,40 +73,51 @@ Linux happy user
 | Angular   | 3    | 2017 | 2017      |
 | ReactJS   | 2    | 2017 | 2017      |
 | Vue       | 1    | 2017 | 2017      |
+| Less,Sass | 4    | 2012 | 2017      |
+| jQuery    | 6    | 2008 | 2017      |
+
+> CMS
+
+| Skill name| Level| Since| Last used|
+|-----------|------|------|----------|
+| Joomla!   | 8    | 2004 | 2017     |
+| Word Press| 2    | 2010 | 2010     |
+| Drupal    | 1    | 2011 | 2011     |
+
 
 > Some clever words to look cooler but of real zero weight
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| HTML      | 8    | 2000 | 2016     |
-| XML       | 8    | 2007 | 2016     |
-| JSON      | 8    | 2007 | 2016     |
-| MarkDown  | 8    | 2016 | 2016     |
+| HTML      | 8    | 2000 | 2017     |
+| XML       | 8    | 2007 | 2017     |
+| JSON      | 8    | 2007 | 2017     |
+| MarkDown  | 8    | 2016 | 2017     |
 | SVG       | 3    | 2010 | 2010     |
 
 > Other software (Graphics, Video).
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| GIMP (bitmap graphics)    | 4    | 2009 | 2016     |
-| Inkscape (vector graphics)| 4    | 2010 | 2016     |
-| OpenShot (video editor)   | 3    | 2016 | 2016     |
+| GIMP (bitmap graphics)    | 4    | 2009 | 2017     |
+| Inkscape (vector graphics)| 4    | 2010 | 2017     |
+| OpenShot (video editor)   | 3    | 2016 | 2017     |
 
 
 > VCS
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| git (gitlab, githab)      | 5    | 2013 | 2016     |
+| git (gitlab, githab)      | 5    | 2013 | 2017     |
 
 
 > Linux and server administration
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2016     |
-| Apache                          | 4    | 2008 | 2016     |
-| SSH/Shell scripting             | 4    | 2008 | 2016     |
+| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2017     |
+| Apache                          | 4    | 2008 | 2017     |
+| SSH/Shell scripting             | 4    | 2008 | 2017     |
 
 > Joomla famous extension worth of being listed
 
