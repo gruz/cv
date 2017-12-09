@@ -1,4 +1,4 @@
-# CV for a PHP developer (Joomla) position
+# CV for a PHP developer position
 
 *Name*: Gruz
 
@@ -6,20 +6,25 @@
 
 *E-mail*: [arygroup@gmail.com](arygroup@gmail.com)
 
-*Jabber*: [gruz@alpha-labs.net](gruz@alpha-labs.net)
-
 *Jabber*: [gruz@jabber.org](gruz@jabber.org)
 
 *Linkedin*: [https://www.linkedin.com/in/vongruz](https://www.linkedin.com/in/vongruz)
 
+*GitHub*: [https://github.com/gruz?tab=repositories](https://github.com/gruz?tab=repositories)
+
 
 # Intro text
 
-I develop for Joomla since 2004 (since it was called Mambo).
+I started web-development in 2001 with pure HTML and later PHP.
 
-I believe that my joomla extension speak about my skills in the best way
+In about 2004 I switched to Joomla CMS (it was called Mambo at that time). Joomla extensions have been my main field of work till 2017 and still is an important part of my life.
 
-Portfolio (Joomla extensions): http://gruz.org.ua/extensions.html
+During that time I have developed and support several joomla extensions, some of which are rather popular. I believe that my joomla extension speak about my skills in the best way. See a little more about my Joomla experience below.
+
+In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies and linux administration.
+
+
+My Joomla extensions: http://gruz.org.ua/extensions.html
 
 Several of my Joomla extensions:
 
@@ -36,7 +41,6 @@ Linux happy user
 
 # Skills
 
-Skills array. Key is a skill name, value is a  skill level (1 to 10).
 1 - lowest, 10 - the ideal knowledge level
 
 > Since there is no criteria to determine knowledge level, here is my rating assumtion. 
@@ -46,7 +50,7 @@ Skills array. Key is a skill name, value is a  skill level (1 to 10).
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla!   | 8    | 2004 | 2016     |
+| Joomla!   | 8    | 2004 | 2017     |
 | Word Press| 2    | 2010 | 2010     |
 | Drupal    | 1    | 2011 | 2011     |
 
@@ -64,9 +68,19 @@ Skills array. Key is a skill name, value is a  skill level (1 to 10).
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| MVC       | 6    | 2013 | 2016      |
+| MVC       | 7    | 2013 | 2016      |
 | AJAX      | 6    | 2004 | 2016      |
 | jQuery    | 6    | 2008 | 2016      |
+| Socket    | 4    | 2017 | 2017      |
+
+> Frameworks / technologies
+
+| Skill name| Level| Since| Last used |
+|-----------|------|------|-----------|
+| Laravel   | 4    | 2017 | 2017      |
+| Angular   | 3    | 2017 | 2017      |
+| ReactJS   | 2    | 2017 | 2017      |
+| Vue       | 1    | 2017 | 2017      |
 
 > Some clever words to look cooler but of real zero weight
 
@@ -116,6 +130,8 @@ Skills array. Key is a skill name, value is a  skill level (1 to 10).
 |-----------|------|------|----------|
 | GruntJS   | 4    | 2016 | 2016     |
 | Bower     | 4    | 2016 | 2016     |
+| FusionPBX | 6    | 2017 | 2017     |
+| FreeSwitch| 3    | 2017 | 2017     |
 
 
 # Education
@@ -132,8 +148,6 @@ Skills array. Key is a skill name, value is a  skill level (1 to 10).
 **English**:    Upper intermediate
 
 **Ukrainian**:  Native
-
-Russian:    Native
 
 # Experience
 
@@ -166,9 +180,9 @@ COMPANY:      IT North
 
 POSITION:     Joomla freelance developer
 
-START:        2012.06
+START:        2012
 
-END:          now (a little)
+END:          2016
 
 DESCRIPTION:
 
@@ -188,9 +202,9 @@ COMPANY:      Facility Media Limited
 
 POSITION:     Joomla freelance developer
 
-START:        2010.01
+START:        2010
 
-END:          now (a little)
+END:          2016
 
 DESCRIPTION:
 
