@@ -21,7 +21,7 @@ In about 2004 I switched to Joomla CMS (it was called Mambo at that time). Jooml
 
 During that time I have developed and support several joomla extensions, some of which are rather popular. I believe that my joomla extension speak about my skills in the best way. See a little more about my Joomla experience below.
 
-In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies and linux administration.
+In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies. Improved my linux administration skills.
 
 
 My Joomla extensions: http://gruz.org.ua/extensions.html
