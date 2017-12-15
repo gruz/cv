@@ -38,6 +38,8 @@ Some of my Joomla extensions are translated by users into 10+ languages, which i
 
 Linux happy user
 
+Relocation is discussable
+
 > *NOTE!* I don't work with/for Russian companies
 
 # Skills
