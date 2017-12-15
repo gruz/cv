@@ -23,7 +23,6 @@ During that time I have developed and support several joomla extensions, some of
 
 In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies. Improved my linux administration skills.
 
-
 My Joomla extensions: http://gruz.org.ua/extensions.html
 
 Several of my Joomla extensions:
@@ -38,6 +37,8 @@ Several of my Joomla extensions:
 Some of my Joomla extensions are translated by users into 10+ languages, which indicates it's usefulness.
 
 Linux happy user
+
+> *NOTE!* I don't work with/for Russian companies
 
 # Skills
 
