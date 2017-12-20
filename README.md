@@ -54,11 +54,11 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| PHP       | 7    | 2001 | 2017      |
-| MySQL     | 6    | 2004 | 2017      |
-| PostgreSQL| 4    | 2017 | 2017      |
-| JS        | 6    | 2000 | 2017      |
-| CSS       | 8    | 2000 | 2017      |
+| PHP       | 6    | 2001 | 2017      |
+| MySQL     | 5    | 2004 | 2017      |
+| PostgreSQL| 1    | 2017 | 2017      |
+| JS        | 5    | 2000 | 2017      |
+| CSS       | 7    | 2000 | 2017      |
 
 > Programming patterns and technologies
 
@@ -66,7 +66,7 @@ Relocation is discussable
 |-----------|------|------|-----------|
 | MVC       | 7    | 2013 | 2017      |
 | AJAX      | 6    | 2004 | 2017      |
-| Socket    | 4    | 2017 | 2017      |
+| Socket    | 2    | 2017 | 2017      |
 
 > Frameworks / technologies
 
@@ -83,7 +83,7 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla!   | 8    | 2004 | 2017     |
+| Joomla!   | 7    | 2004 | 2017     |
 | Word Press| 2    | 2010 | 2010     |
 | Drupal    | 1    | 2011 | 2011     |
 
@@ -92,19 +92,19 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| HTML      | 8    | 2000 | 2017     |
-| XML       | 8    | 2007 | 2017     |
-| JSON      | 8    | 2007 | 2017     |
-| MarkDown  | 8    | 2016 | 2017     |
-| SVG       | 3    | 2010 | 2010     |
+| HTML      | 7    | 2000 | 2017     |
+| XML       | 7    | 2007 | 2017     |
+| JSON      | 7    | 2007 | 2017     |
+| MarkDown  | 7    | 2016 | 2017     |
+| SVG       | 2    | 2010 | 2010     |
 
 > Other software (Graphics, Video).
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
 | GIMP (bitmap graphics)    | 4    | 2009 | 2017     |
-| Inkscape (vector graphics)| 4    | 2010 | 2017     |
-| OpenShot (video editor)   | 3    | 2016 | 2017     |
+| Inkscape (vector graphics)| 3    | 2010 | 2017     |
+| OpenShot (video editor)   | 1    | 2016 | 2017     |
 
 
 > VCS
@@ -119,25 +119,25 @@ Relocation is discussable
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
 | Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2017     |
-| Apache                          | 4    | 2008 | 2017     |
-| SSH/Shell scripting             | 4    | 2008 | 2017     |
+| Apache                          | 3    | 2008 | 2017     |
+| SSH/Shell scripting             | 3    | 2008 | 2017     |
 
 > Joomla famous extension worth of being listed
 
 | Skill name         | Level| Since| Last used|
 |--------------------|------|------|----------|
-| Virtuemart         | 5    | 2007 | 2014     |
-| HikaShop           | 6    | 2013 | 2016     |
+| Virtuemart         | 4    | 2007 | 2014     |
+| HikaShop           | 5    | 2013 | 2016     |
 
 
 > Other worth to be noted
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| GruntJS   | 4    | 2016 | 2016     |
-| Bower     | 4    | 2016 | 2016     |
-| FusionPBX | 6    | 2017 | 2017     |
-| FreeSwitch| 3    | 2017 | 2017     |
+| GruntJS   | 3    | 2016 | 2016     |
+| Bower     | 3    | 2016 | 2016     |
+| FusionPBX | 3    | 2017 | 2017     |
+| FreeSwitch| 1    | 2017 | 2017     |
 
 
 # Education
