@@ -8,8 +8,6 @@
 
 *Jabber*: [gruz@jabber.org](gruz@jabber.org)
 
-*Linkedin*: [https://www.linkedin.com/in/vongruz](https://www.linkedin.com/in/vongruz)
-
 *GitHub*: [https://github.com/gruz?tab=repositories](https://github.com/gruz?tab=repositories)
 
 
