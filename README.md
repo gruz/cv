@@ -15,24 +15,11 @@
 
 I started web-development in 2001 with pure HTML and later PHP.
 
-In about 2004 I switched to Joomla CMS (it was called Mambo at that time). Joomla extensions have been my main field of work till 2017 and still is an important part of my life.
+In about 2004 I started to use Joomla CMS (it was called Mambo at that time). Joomla extensions have been my main field of work till 2017 and still is an important part of my life.
 
-During that time I have developed and support several joomla extensions, some of which are rather popular. I believe that my joomla extension speak about my skills in the best way. See a little more about my Joomla experience below.
+During that time I have developed and support several joomla extensions, some of which are rather popular and transleated by users into 10+ languages.
 
-In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies. Improved my linux administration skills.
-
-My Joomla extensions: http://gruz.org.ua/extensions.html
-
-Several of my Joomla extensions:
-
-* MVC Override - override Joomla or extensions classes or methods
-* NotificationAry - email on new/updated content
-* AjaxModuleLoader - load modules via Ajax
-* Crop Fix for PhocaGallery - control thumbnails resize
-* AutoReadMore - add Read More break automatically
-* LimitArticleEdit - don't allow an Author to edit own article after being published
-
-Some of my Joomla extensions are translated by users into 10+ languages, which indicates it's usefulness.
+In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies. Improved my linux administration skills. Got significant experience with WordPress. 
 
 Linux happy user
 
@@ -52,18 +39,18 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| PHP       | 6    | 2001 | 2017      |
-| MySQL     | 5    | 2004 | 2017      |
+| PHP       | 6    | 2001 | 2018      |
+| MySQL     | 5    | 2004 | 2018      |
 | PostgreSQL| 1    | 2017 | 2017      |
-| JS        | 5    | 2000 | 2017      |
-| CSS       | 7    | 2000 | 2017      |
+| JS        | 5    | 2000 | 2018      |
+| CSS       | 7    | 2000 | 2018      |
 
 > Programming patterns and technologies
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| MVC       | 7    | 2013 | 2017      |
-| AJAX      | 6    | 2004 | 2017      |
+| MVC       | 7    | 2013 | 2018      |
+| AJAX      | 6    | 2004 | 2018      |
 | Socket    | 2    | 2017 | 2017      |
 
 > Frameworks / technologies
@@ -74,15 +61,15 @@ Relocation is discussable
 | Angular   | 3    | 2017 | 2017      |
 | ReactJS   | 2    | 2017 | 2017      |
 | Vue       | 1    | 2017 | 2017      |
-| Less,Sass | 4    | 2012 | 2017      |
-| jQuery    | 6    | 2008 | 2017      |
+| Less,Sass | 4    | 2012 | 2018      |
+| jQuery    | 6    | 2008 | 2018      |
 
 > CMS
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla!   | 7    | 2004 | 2017     |
-| Word Press| 2    | 2010 | 2010     |
+| Joomla!   | 7    | 2004 | 2018     |
+| Word Press| 5    | 2010 | 2018     |
 | Drupal    | 1    | 2011 | 2011     |
 
 
@@ -90,35 +77,35 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| HTML      | 7    | 2000 | 2017     |
-| XML       | 7    | 2007 | 2017     |
-| JSON      | 7    | 2007 | 2017     |
-| MarkDown  | 7    | 2016 | 2017     |
+| HTML      | 7    | 2000 | 2018     |
+| XML       | 7    | 2007 | 2018     |
+| JSON      | 7    | 2007 | 2018     |
+| MarkDown  | 7    | 2016 | 2018     |
 | SVG       | 2    | 2010 | 2010     |
 
 > Other software (Graphics, Video).
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| GIMP (bitmap graphics)    | 4    | 2009 | 2017     |
-| Inkscape (vector graphics)| 3    | 2010 | 2017     |
-| OpenShot (video editor)   | 1    | 2016 | 2017     |
+| GIMP (bitmap graphics)    | 4    | 2009 | 2018     |
+| Inkscape (vector graphics)| 3    | 2010 | 2018     |
+| OpenShot (video editor)   | 1    | 2016 | 2018     |
 
 
 > VCS
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| git (gitlab, githab)      | 5    | 2013 | 2017     |
+| git (gitlab, githab)      | 5    | 2013 | 2018     |
 
 
 > Linux and server administration
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2017     |
-| Apache                          | 3    | 2008 | 2017     |
-| SSH/Shell scripting             | 3    | 2008 | 2017     |
+| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2018     |
+| Apache                          | 3    | 2008 | 2018     |
+| SSH/Shell scripting             | 3    | 2008 | 2018     |
 
 > Joomla famous extension worth of being listed
 
@@ -132,8 +119,10 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
+| Composer  | 4    | 2016 | 2018     |
 | GruntJS   | 3    | 2016 | 2016     |
-| Bower     | 3    | 2016 | 2016     |
+| Bower     | 3    | 2016 | 2018     |
+| Gulp      | 3    | 2016 | 2018     |
 | FusionPBX | 3    | 2017 | 2017     |
 | FreeSwitch| 1    | 2017 | 2017     |
 
@@ -159,6 +148,19 @@ Relocation is discussable
 
 > Here I include only PHP development-tied jobs, other places can be 
 found at https://www.linkedin.com/in/vongruz
+
+---
+COMPANY:      Enli.io
+
+POSITION:     PHP developerf
+
+START:        2017.04
+
+END:          2017.12
+
+DESCRIPTION: 
+
+    Worked on mostly new for me technologies. Learned Laravel and developed a REST API for FusionPBX (VoIP software). Converted the API to sockets. Worked on different PHP backend and JS frontend tasks. Got huge experience in a good team.
 
 ---
 COMPANY:      OBEC POCTE
@@ -349,3 +351,4 @@ RECOMMENDATION TEXT:
 
 	August 26, 2016, Mike managed Gruz indirectly at ITnorth
 	Network & Consulting Service Ltd
+
