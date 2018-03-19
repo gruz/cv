@@ -2,8 +2,6 @@
 
 *Name*: Gruz
 
-*YOB*: 1981
-
 *E-mail*: [arygroup@gmail.com](arygroup@gmail.com)
 
 *Jabber*: [gruz@jabber.org](gruz@jabber.org)
@@ -37,13 +35,14 @@ Relocation is discussable
 
 > Programming, database and script languages
 
-| Skill name| Level| Since| Last used |
-|-----------|------|------|-----------|
-| PHP       | 6    | 2001 | 2018      |
-| MySQL     | 5    | 2004 | 2018      |
-| PostgreSQL| 1    | 2017 | 2017      |
-| JS        | 5    | 2000 | 2018      |
-| CSS       | 7    | 2000 | 2018      |
+| Skill name   | Level| Since| Last used |
+|--------------|------|------|-----------|
+| PHP          | 6    | 2001 | 2018      |
+| MySQL        | 5    | 2004 | 2018      |
+| PostgreSQL   | 1    | 2017 | 2017      |
+| JS           | 5    | 2000 | 2018      |
+| CSS          | 7    | 2000 | 2018      |
+| ElasticSearch| 3    | 2018 | 2018      |
 
 > Programming patterns and technologies
 
@@ -63,6 +62,7 @@ Relocation is discussable
 | Vue       | 1    | 2017 | 2017      |
 | Less,Sass | 4    | 2012 | 2018      |
 | jQuery    | 6    | 2008 | 2018      |
+| Cordova   | 3    | 2018 | 2018      |
 
 > CMS
 
