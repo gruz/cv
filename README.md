@@ -11,13 +11,27 @@
 
 # Intro text
 
-I started web-development in 2001 with pure HTML and later PHP.
+Started web-development in 2001 with pure HTML and later PHP. 
 
-In about 2004 I started to use Joomla CMS (it was called Mambo at that time). Joomla extensions have been my main field of work till 2017 and still is an important part of my life.
+I worked:
 
-During that time I have developed and support several joomla extensions, some of which are rather popular and transleated by users into 10+ languages.
+* at office
+* remotely
+* as a freelancer
+* as a web-developer
+* as a system administrator
+* as a manager and as managed
+* in IT
+* not in IT (media, museum, NGO, war)
+* for money
+* for interest or idea
+* for fun
 
-In 2017 I decided to try new technologies and for a short time I got significant experience with Laravel, FreeSwitch, FusionPBX and IP telephony in general, Angular and some new minor experience with other frontend technologies. Improved my linux administration skills. Got significant experience with WordPress. 
+**Joomla part of my life**
+
+Though Joomla is not the only and the main thing I work with, it's worth to mention the following:
+
+In about 2004 I started to work with Joomla CMS (it was called Mambo at that time). I have developed and support several joomla extensions, some of which are rather popular and translated by users into 10+ languages.
 
 Linux happy user
 
