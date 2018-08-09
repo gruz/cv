@@ -166,7 +166,7 @@ found at https://www.linkedin.com/in/vongruz
 ---
 COMPANY:      Enli.io
 
-POSITION:     PHP developerf
+POSITION:     PHP developer
 
 START:        2017.04
 
