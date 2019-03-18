@@ -27,12 +27,6 @@ I worked:
 * for interest or idea
 * for fun
 
-**Joomla part of my life**
-
-Though Joomla is not the only and the main thing I work with, it's worth to mention the following:
-
-In about 2004 I started to work with Joomla CMS (it was called Mambo at that time). I have developed and support several joomla extensions, some of which are rather popular and translated by users into 10+ languages.
-
 Linux happy user
 
 Relocation is discussable
@@ -51,75 +45,70 @@ Relocation is discussable
 
 | Skill name   | Level| Since| Last used |
 |--------------|------|------|-----------|
-| PHP          | 6    | 2001 | 2018      |
-| MySQL        | 5    | 2004 | 2018      |
-| PostgreSQL   | 1    | 2017 | 2017      |
-| JS           | 5    | 2000 | 2018      |
-| CSS          | 7    | 2000 | 2018      |
-| ElasticSearch| 3    | 2018 | 2018      |
-
-> Programming patterns and technologies
-
-| Skill name| Level| Since| Last used |
-|-----------|------|------|-----------|
-| MVC       | 7    | 2013 | 2018      |
-| AJAX      | 6    | 2004 | 2018      |
-| Socket    | 2    | 2017 | 2017      |
+| PHP          | 7    | 2001 | 2019      |
+| MySQL        | 6    | 2004 | 2019      |
+| PostgreSQL   | 5    | 2017 | 2019      |
+| JS           | 6    | 2000 | 2019      |
+| CSS          | 7    | 2000 | 2019      |
+| ElasticSearch| 4    | 2018 | 2018      |
 
 > Frameworks / technologies
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| Laravel   | 4    | 2017 | 2017      |
-| Angular   | 3    | 2017 | 2017      |
+| Laravel   | 6    | 2017 | 2019      |
+| Symfony   | 5    | 2018 | 2019      |
+| Angular   | 2    | 2017 | 2017      |
 | ReactJS   | 2    | 2017 | 2017      |
 | Vue       | 1    | 2017 | 2017      |
-| Less,Sass | 4    | 2012 | 2018      |
-| jQuery    | 6    | 2008 | 2018      |
+| Less,Sass | 6    | 2012 | 2019      |
+| jQuery    | 7    | 2008 | 2019      |
 | Cordova   | 3    | 2018 | 2018      |
 
 > CMS
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla!   | 7    | 2004 | 2018     |
-| Word Press| 5    | 2010 | 2018     |
+| Joomla!   | 8    | 2004 | 2019     |
+| Word Press| 7    | 2010 | 2018     |
 | Drupal    | 1    | 2011 | 2011     |
+| Voyager   | 6    | 2019 | 2019     |
+| OctoberCMS| 2    | 2019 | 2019     |
 
-
-> Some clever words to look cooler but of real zero weight
+> Some clever words to look cooler
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| HTML      | 7    | 2000 | 2018     |
-| XML       | 7    | 2007 | 2018     |
-| JSON      | 7    | 2007 | 2018     |
-| MarkDown  | 7    | 2016 | 2018     |
+| HTML      | 7    | 2000 | 2019     |
+| XML       | 7    | 2007 | 2019     |
+| JSON      | 7    | 2007 | 2019     |
+| MarkDown  | 7    | 2016 | 2019     |
 | SVG       | 2    | 2010 | 2010     |
 
 > Other software (Graphics, Video).
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| GIMP (bitmap graphics)    | 4    | 2009 | 2018     |
-| Inkscape (vector graphics)| 3    | 2010 | 2018     |
+| GIMP (bitmap graphics)    | 4    | 2009 | 2019     |
+| Inkscape (vector graphics)| 3    | 2010 | 2019     |
 | OpenShot (video editor)   | 1    | 2016 | 2018     |
-
 
 > VCS
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| git (gitlab, githab)      | 5    | 2013 | 2018     |
+| git (gitlab, githab)      | 6    | 2013 | 2019     |
 
 
 > Linux and server administration
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2018     |
-| Apache                          | 3    | 2008 | 2018     |
-| SSH/Shell scripting             | 3    | 2008 | 2018     |
+| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2019     |
+| Apache                          | 3    | 2008 | 2019     |
+| Nginx                           | 3    | 2019 | 2019     |
+| SSH/Shell scripting             | 3    | 2008 | 2019     |
+| Docker                          | 4    | 2018 | 2019     |
 
 > Joomla famous extension worth of being listed
 
@@ -128,18 +117,18 @@ Relocation is discussable
 | Virtuemart         | 4    | 2007 | 2014     |
 | HikaShop           | 5    | 2013 | 2016     |
 
-
 > Other worth to be noted
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Composer  | 4    | 2016 | 2018     |
+| Composer  | 5    | 2016 | 2019     |
 | GruntJS   | 3    | 2016 | 2016     |
 | Bower     | 3    | 2016 | 2018     |
-| Gulp      | 3    | 2016 | 2018     |
+| Gulp      | 3    | 2016 | 2019     |
+| Yarn      | 4    | 2018 | 2019     |
 | FusionPBX | 3    | 2017 | 2017     |
 | FreeSwitch| 1    | 2017 | 2017     |
-
+| Socket    | 2    | 2017 | 2017     |
 
 # Education
 **UNIVERSITY**:      National Technical University of Ukraine 'Kyiv Polytechnic Institute'
@@ -366,3 +355,9 @@ RECOMMENDATION TEXT:
 	August 26, 2016, Mike managed Gruz indirectly at ITnorth
 	Network & Consulting Service Ltd
 
+
+# Joomla part of my life
+
+Though Joomla is not the only and the main thing I work with, it's worth to mention the following:
+
+In about 2004 I started to work with Joomla CMS (it was called Mambo at that time). I have developed and support several joomla extensions, some of which are rather popular and even translated by users into 10+ languages.
