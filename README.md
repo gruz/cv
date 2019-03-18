@@ -75,7 +75,7 @@ Relocation is discussable
 | Voyager   | 6    | 2019 | 2019     |
 | OctoberCMS| 2    | 2019 | 2019     |
 
-> Some clever words to look cooler
+> Some clever words to look cooler but of zero weight
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
@@ -129,6 +129,7 @@ Relocation is discussable
 | FusionPBX | 3    | 2017 | 2017     |
 | FreeSwitch| 1    | 2017 | 2017     |
 | Socket    | 2    | 2017 | 2017     |
+| REST API  | 4    | 2017 | 2019     |
 
 # Education
 **UNIVERSITY**:      National Technical University of Ukraine 'Kyiv Polytechnic Institute'
