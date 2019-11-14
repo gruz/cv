@@ -71,6 +71,7 @@ Relocation is discussable
 |-----------|------|------|----------|
 | Joomla!   | 8    | 2004 | 2019     |
 | Word Press| 7    | 2010 | 2018     |
+| Pimcore   | 7    | 2019 | 2019     |
 | Drupal    | 1    | 2011 | 2011     |
 | Voyager   | 6    | 2019 | 2019     |
 | OctoberCMS| 2    | 2019 | 2019     |
