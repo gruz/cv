@@ -45,10 +45,10 @@ Relocation is discussable
 
 | Skill name   | Level| Since| Last used |
 |--------------|------|------|-----------|
-| PHP          | 7    | 2001 | 2019      |
+| PHP          | 8    | 2001 | 2019      |
 | MySQL        | 6    | 2004 | 2019      |
 | PostgreSQL   | 5    | 2017 | 2019      |
-| JS           | 6    | 2000 | 2019      |
+| JS           | 7    | 2000 | 2019      |
 | CSS          | 7    | 2000 | 2019      |
 | ElasticSearch| 4    | 2018 | 2018      |
 
@@ -105,11 +105,11 @@ Relocation is discussable
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2009 | 2019     |
-| Apache                          | 3    | 2008 | 2019     |
-| Nginx                           | 3    | 2019 | 2019     |
-| SSH/Shell scripting             | 3    | 2008 | 2019     |
-| Docker                          | 4    | 2018 | 2019     |
+| Linux (OpenSuse, CentOS, Ubuntu)| 7    | 2009 | 2019     |
+| Apache                          | 4    | 2008 | 2019     |
+| Nginx                           | 4    | 2019 | 2019     |
+| SSH/Shell scripting             | 6    | 2008 | 2019     |
+| Docker                          | 7    | 2018 | 2019     |
 
 > Joomla famous extension worth of being listed
 
