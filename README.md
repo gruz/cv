@@ -45,45 +45,46 @@ Relocation is discussable
 
 | Skill name   | Level| Since| Last used |
 |--------------|------|------|-----------|
-| PHP          | 8    | 2001 | 2019      |
-| MySQL        | 6    | 2004 | 2019      |
-| PostgreSQL   | 5    | 2017 | 2019      |
-| JS           | 7    | 2000 | 2019      |
-| CSS          | 7    | 2000 | 2019      |
+| PHP          | 8    | 2001 | 2020      |
+| MySQL        | 6    | 2004 | 2020      |
+| PostgreSQL   | 6    | 2017 | 2020      |
+| JS           | 7    | 2000 | 2020      |
+| CSS          | 7    | 2000 | 2020      |
 | ElasticSearch| 4    | 2018 | 2018      |
+| MsSQL        | 4    | 2019 | 2020      |
 
 > Frameworks / technologies
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| Laravel   | 6    | 2017 | 2019      |
-| Symfony   | 5    | 2018 | 2019      |
+| Laravel   | 6    | 2017 | 2020      |
+| Symfony   | 5    | 2018 | 2020      |
 | Angular   | 2    | 2017 | 2017      |
 | ReactJS   | 2    | 2017 | 2017      |
 | Vue       | 1    | 2017 | 2017      |
-| Less,Sass | 6    | 2012 | 2019      |
-| jQuery    | 7    | 2008 | 2019      |
+| Less,Sass | 6    | 2012 | 2020      |
+| jQuery    | 7    | 2008 | 2020      |
 | Cordova   | 3    | 2018 | 2018      |
 
 > CMS
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla!   | 8    | 2004 | 2019     |
+| Joomla!   | 8    | 2004 | 2020     |
 | Word Press| 7    | 2010 | 2018     |
-| Pimcore   | 7    | 2019 | 2019     |
+| Pimcore   | 7    | 2019 | 2020     |
 | Drupal    | 1    | 2011 | 2011     |
-| Voyager   | 6    | 2019 | 2019     |
+| Voyager   | 6    | 2019 | 2020     |
 | OctoberCMS| 2    | 2019 | 2019     |
 
 > Some clever words to look cooler but of zero weight
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| HTML      | 7    | 2000 | 2019     |
-| XML       | 7    | 2007 | 2019     |
-| JSON      | 7    | 2007 | 2019     |
-| MarkDown  | 7    | 2016 | 2019     |
+| HTML      | 7    | 2000 | 2020     |
+| XML       | 7    | 2007 | 2020     |
+| JSON      | 7    | 2007 | 2020     |
+| MarkDown  | 7    | 2016 | 2020     |
 | SVG       | 2    | 2010 | 2010     |
 
 > Other software (Graphics, Video).
@@ -98,18 +99,19 @@ Relocation is discussable
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| git (gitlab, githab)      | 6    | 2013 | 2019     |
+| git (gitlab, githab)      | 7    | 2013 | 2020     |
 
 
 > Linux and server administration
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 7    | 2009 | 2019     |
-| Apache                          | 4    | 2008 | 2019     |
-| Nginx                           | 4    | 2019 | 2019     |
-| SSH/Shell scripting             | 6    | 2008 | 2019     |
-| Docker                          | 7    | 2018 | 2019     |
+| Linux (OpenSuse, CentOS, Ubuntu)| 8    | 2009 | 2020     |
+| Apache                          | 4    | 2008 | 2020     |
+| Nginx                           | 4    | 2019 | 2020     |
+| SSH/Shell scripting             | 6    | 2008 | 2020     |
+| Docker                          | 7    | 2018 | 2020     |
+| CWP                             | 5    | 2018 | 2020     |
 
 > Joomla famous extension worth of being listed
 
@@ -122,15 +124,15 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Composer  | 5    | 2016 | 2019     |
+| Composer  | 5    | 2016 | 2020     |
 | GruntJS   | 3    | 2016 | 2016     |
 | Bower     | 3    | 2016 | 2018     |
-| Gulp      | 3    | 2016 | 2019     |
+| Gulp      | 3    | 2016 | 2020     |
 | Yarn      | 4    | 2018 | 2019     |
 | FusionPBX | 3    | 2017 | 2017     |
 | FreeSwitch| 1    | 2017 | 2017     |
 | Socket    | 2    | 2017 | 2017     |
-| REST API  | 4    | 2017 | 2019     |
+| REST API  | 4    | 2017 | 2020     |
 
 # Education
 **UNIVERSITY**:      National Technical University of Ukraine 'Kyiv Polytechnic Institute'
