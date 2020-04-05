@@ -50,7 +50,7 @@ Relocation is discussable
 | PostgreSQL   | 6    | 2017 | 2020      |
 | JS           | 7    | 2000 | 2020      |
 | CSS          | 7    | 2000 | 2020      |
-| ElasticSearch| 4    | 2018 | 2018      |
+| ElasticSearch| 4    | 2018 | 2020      |
 | MsSQL        | 4    | 2019 | 2020      |
 
 > Frameworks / technologies
@@ -91,8 +91,8 @@ Relocation is discussable
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| GIMP (bitmap graphics)    | 4    | 2009 | 2019     |
-| Inkscape (vector graphics)| 3    | 2010 | 2019     |
+| GIMP (bitmap graphics)    | 4    | 2009 | 2020     |
+| Inkscape (vector graphics)| 3    | 2010 | 2020     |
 | OpenShot (video editor)   | 1    | 2016 | 2018     |
 
 > VCS
@@ -107,9 +107,9 @@ Relocation is discussable
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
 | Linux (OpenSuse, CentOS, Ubuntu)| 8    | 2009 | 2020     |
-| Apache                          | 4    | 2008 | 2020     |
-| Nginx                           | 4    | 2019 | 2020     |
-| SSH/Shell scripting             | 6    | 2008 | 2020     |
+| Apache                          | 5    | 2008 | 2020     |
+| Nginx                           | 5    | 2019 | 2020     |
+| SSH/Shell scripting             | 7    | 2008 | 2020     |
 | Docker                          | 7    | 2018 | 2020     |
 | CWP                             | 5    | 2018 | 2020     |
 
