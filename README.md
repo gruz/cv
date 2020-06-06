@@ -153,8 +153,7 @@ Relocation is discussable
 
 ## Experience - companies, projects, job places etc
 
-> Here I include only PHP development-tied jobs, other places can be 
-found at https://www.linkedin.com/in/vongruz
+> Here I include only PHP development-tied jobs
 
 ---
 COMPANY:      Enli.io
