@@ -166,7 +166,9 @@ END:          2017.12
 
 DESCRIPTION: 
 
-    Worked on mostly new for me technologies. Learned Laravel and developed a REST API for FusionPBX (VoIP software). Converted the API to sockets. Worked on different PHP backend and JS frontend tasks. Got huge experience in a good team.
+    Worked on mostly new for me technologies. Learned Laravel and developed 
+    a REST API for FusionPBX (VoIP software). Converted the API to sockets. 
+    Worked on different PHP backend and JS frontend tasks. Got huge experience in a good team.
 
 ---
 COMPANY:      OBEC POCTE
