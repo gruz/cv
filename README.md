@@ -65,6 +65,7 @@ Relocation is discussable
 | Less,Sass | 6    | 2012 | 2020      |
 | jQuery    | 7    | 2008 | 2020      |
 | Cordova   | 3    | 2018 | 2018      |
+| Unit Tests| 3    | 2020 | 2020      |
 
 > CMS
 
@@ -124,10 +125,10 @@ Relocation is discussable
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Composer  | 5    | 2016 | 2020     |
+| Composer  | 6    | 2016 | 2020     |
 | GruntJS   | 3    | 2016 | 2016     |
 | Bower     | 3    | 2016 | 2018     |
-| Gulp      | 3    | 2016 | 2020     |
+| Gulp      | 7    | 2016 | 2020     |
 | Yarn      | 4    | 2018 | 2019     |
 | FusionPBX | 3    | 2017 | 2017     |
 | FreeSwitch| 1    | 2017 | 2017     |
@@ -156,6 +157,61 @@ Relocation is discussable
 > Here I include only PHP development-tied jobs
 
 ---
+COMPANY:      agiliway.com
+
+POSITION:     PHP developer
+
+START:        2018.02
+
+END:          -
+
+DESCRIPTION: 
+
+	Develop REST API
+	
+	ElasticSearch - create indexes, search, create a Laravel 
+	driven API to communicate with ElasticSearch
+	
+	Reindex on the fly. Developing a solution to reindex data to 
+	ElasticSearch upon any change (including manual) to the source Postgres DB
+	(Involving Postgres triggers, Logical replication slots, developing a Laravel-side listener
+	to consume Postgres changes notifications, Linux-side supervisord setup for Laraver queue workers)
+	
+	PDF programmatically manipulations (Blur, resize, apply OCR-recognized 
+	text to PDF-as-image file to make it text searchable)
+
+	Creating a multitenancy solution for Laravel Voyager admin panel 
+	
+	Create various docker environmnets (Including project with 2 php versions side by side)
+	
+	Writing bash scripts for automatic environment setup for other developmers
+	
+	Maintain and setup linux servers for projects, debugging server-side issues, 
+	setting up Apache, nginx
+	
+	Create/maintain Gitlab CI/CD routines
+	
+	MsSQL to Postgres migration
+	
+	Writing automatics tests
+	
+	Moving old code PHP code to modern approaches
+	
+	Reworking old static JS code using modern JS approaches, adding gulp scripts to build one entry point modern JS code
+	
+	Creating/maintaingng SASS/SCSS, JS (jQuery and pure JS, ES6+)
+	
+	Developing using:
+		* Symfony, Laravel
+	        * Voyager, October CMS, Pimcore
+		* Cordova/Ionic 
+		* Django and python
+	
+	Wordpress, Joomla plugin development
+
+	Acting as a team lead (code review, planning, mentoring)
+
+---
 COMPANY:      Enli.io
 
 POSITION:     PHP developer
@@ -166,27 +222,8 @@ END:          2017.12
 
 DESCRIPTION: 
 
-    Worked on mostly new for me technologies. Learned Laravel and developed 
-    a REST API for FusionPBX (VoIP software). Converted the API to sockets. 
-    Worked on different PHP backend and JS frontend tasks. Got huge experience in a good team.
-
----
-COMPANY:      OBEC POCTE
-
-POSITION:     A kind of owner
-
-START:        2004
-
-END:          now
-
-DESCRIPTION: 
-
-    My web-site. Working as a freelancer for years I have developed many
-	Joomla extensions. So the freelance jobs results, which are often
-	hidden, can be seen as my extensions, sometimes my experience-share
-	articles.
-	It's not a company, but is a significant part of my job, life and
-	experience share.
+    Developed a Laravel diven REST API for FusionPBX VOIP software, converted it to web-sockets.
+    Worked on different PHP backend and JS frontend tasks.
 
 ---
 
@@ -227,6 +264,25 @@ DESCRIPTION:
 	Tough it's not active anymore, I still support some web-sites
 
 ---
+
+COMPANY:      OBEC POCTE
+
+POSITION:     A kind of owner
+
+START:        2004
+
+END:          now
+
+DESCRIPTION: 
+
+   	 My web-site. Working as a freelancer for years I have developed many
+	Joomla extensions. So the freelance jobs results, which are often
+	hidden, can be seen as my extensions, sometimes my experience-share
+	articles.
+	It's not a company, but is a significant part of my job, life and
+	experience share.
+---
+
 
 ## Projects/web-sites
 
