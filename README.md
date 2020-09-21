@@ -182,7 +182,7 @@ DESCRIPTION:
 
 	Creating a multitenancy solution for Laravel Voyager admin panel 
 	
-	Create various docker environmnets (Including project with 2 php versions side by side)
+	Create various docker environments (Including project with 2 php versions side by side)
 	
 	Writing bash scripts for automatic environment setup for other developmers
 	
