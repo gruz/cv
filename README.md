@@ -184,7 +184,7 @@ DESCRIPTION:
 	
 	Create various docker environments (Including project with 2 php versions side by side)
 	
-	Writing bash scripts for automatic environment setup for other developmers
+	Writing bash scripts for automatic environment setup for other developers
 	
 	Maintain and setup linux servers for projects, debugging server-side issues, 
 	setting up Apache, nginx
@@ -199,7 +199,7 @@ DESCRIPTION:
 	
 	Reworking old static JS code using modern JS approaches, adding gulp scripts to build one entry point modern JS code
 	
-	Creating/maintaingng SASS/SCSS, JS (jQuery and pure JS, ES6+)
+	Creating/maintaining SASS/SCSS, JS (jQuery and pure JS, ES6+)
 	
 	Developing using:
 		* Symfony, Laravel
