@@ -31,7 +31,7 @@ Linux happy user
 
 Relocation is discussable
 
-> *NOTE!* I don't work with/for Russian companies or companies with offices in Russia
+> *NOTE!* I don't work with/for Russian companies or companies with offices in Russia and for projects tied to casino/gambling, alcohol, drugs, homosexual movements/propaganda.
 
 # Skills
 
