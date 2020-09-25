@@ -197,7 +197,8 @@ DESCRIPTION:
 	
 	Moving old code PHP code to modern approaches
 	
-	Reworking old static JS code using modern JS approaches, adding gulp scripts to build one entry point modern JS code
+	Reworking old static JS code using modern JS approaches, adding gulp scripts to build 
+	one entry point modern JS code
 	
 	Creating/maintaining SASS/SCSS, JS (jQuery and pure JS, ES6+)
 	
