@@ -2,7 +2,7 @@
 
 *Name*: Gruz
 
-*E-mail*: [arygroup@gmail.com](arygroup@gmail.com)
+*E-mail*: [vongruz@protonmail.com](vongruz@protonmail.com)
 
 *Jabber*: [gruz@jabber.org](gruz@jabber.org)
 
