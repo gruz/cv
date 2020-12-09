@@ -4,7 +4,7 @@
 
 *E-mail*: [vongruz@protonmail.com](vongruz@protonmail.com)
 
-*Jabber*: [gruz@jabber.org](gruz@jabber.org)
+*Wire*: [@grust](@grust)
 
 *GitHub*: [https://github.com/gruz?tab=repositories](https://github.com/gruz?tab=repositories)
 
