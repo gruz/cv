@@ -130,8 +130,8 @@ Relocation is discussable
 | Bower     | 3    | 2016 | 2018     |
 | Gulp      | 7    | 2016 | 2020     |
 | Yarn      | 4    | 2018 | 2019     |
-| FusionPBX | 3    | 2017 | 2017     |
-| FreeSwitch| 1    | 2017 | 2017     |
+| FusionPBX | 3    | 2017 | 2020     |
+| FreeSwitch| 1    | 2017 | 2020     |
 | Socket    | 2    | 2017 | 2017     |
 | REST API  | 4    | 2017 | 2020     |
 
