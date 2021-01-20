@@ -1,4 +1,4 @@
-# CV for a StrongJunion/Middle PHP developer position
+# CV for a Strong Junion/Middle PHP developer position
 
 *Name*: Gruz
 
@@ -43,61 +43,61 @@ Relocation is discussable
 
 | Skill name   | Level| Since| Last used |
 |--------------|------|------|-----------|
-| PHP          | 6    | 2017 | 2020      |
-| MySQL        | 4    | 2017 | 2020      |
-| PostgreSQL   | 5    | 2017 | 2020      |
-| JS           | 4    | 2017 | 2020      |
-| CSS          | 5    | 2017 | 2020      |
-| ElasticSearch| 3    | 2018 | 2020      |
+| PHP          | 6    | 2017 | 2021      |
+| MySQL        | 4    | 2017 | 2021      |
+| PostgreSQL   | 5    | 2017 | 2021      |
+| JS           | 4    | 2017 | 2021      |
+| CSS          | 5    | 2017 | 2021      |
+| ElasticSearch| 3    | 2018 | 2021      |
 
 > Frameworks / technologies
 
 | Skill name| Level| Since| Last used |
 |-----------|------|------|-----------|
-| Laravel   | 4    | 2017 | 2020      |
+| Laravel   | 4    | 2017 | 2021      |
 | Symfony   | 2    | 2018 | 2020      |
-| Less,Sass | 4    | 2017 | 2020      |
-| jQuery    | 5    | 2017 | 2020      |
+| Less,Sass | 4    | 2017 | 2021      |
+| jQuery    | 5    | 2017 | 2021      |
 | Unit Tests| 1    | 2020 | 2020      |
 
 > CMS
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Joomla!   | 6    | 2017 | 2020     |
+| Joomla!   | 6    | 2017 | 2021     |
 | Word Press| 4    | 2017 | 2018     |
 
 > Some clever words to look cooler but of zero weight
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| HTML      | 5    | 2017 | 2020     |
-| MarkDown  | 6    | 2017 | 2020     |
+| HTML      | 5    | 2017 | 2021     |
+| MarkDown  | 6    | 2017 | 2021     |
 
 > VCS
 
 | Skill name                | Level| Since| Last used|
 |---------------------------|------|------|----------|
-| git (gitlab, githab)      | 5    | 2017 | 2020     |
+| git (gitlab, githab)      | 5    | 2017 | 2021     |
 
 > Linux and server administration
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2017 | 2020     |
-| Apache                          | 3    | 2017 | 2020     |
-| Nginx                           | 3    | 2019 | 2020     |
-| SSH/Shell scripting             | 5    | 2017 | 2020     |
-| Docker                          | 4    | 2018 | 2020     |
+| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2017 | 2021     |
+| Apache                          | 3    | 2017 | 2021     |
+| Nginx                           | 3    | 2019 | 2021     |
+| SSH/Shell scripting             | 5    | 2017 | 2021     |
+| Docker                          | 4    | 2018 | 2021     |
 
 > Other worth to be noted
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Composer  | 5    | 2017 | 2020     |
+| Composer  | 5    | 2017 | 2021     |
 | Gulp      | 4    | 2017 | 2020     |
-| FusionPBX | 1    | 2017 | 2020     |
-| REST API  | 3    | 2017 | 2020     |
+| FusionPBX | 1    | 2017 | 2021     |
+| REST API  | 3    | 2017 | 2021     |
 
 # Education
 **UNIVERSITY**:      National Technical University of Ukraine 'Kyiv Polytechnic Institute'
