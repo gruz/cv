@@ -1,4 +1,4 @@
-# CV for a Strong Junion/Middle PHP developer position
+# CV for a PHP developer position
 
 *Name*: Gruz
 
@@ -27,9 +27,13 @@ I worked:
 
 Linux happy user
 
-Relocation is discussable
-
 > *NOTE!* I don't work with/for Russian companies or companies with offices in Russia and for projects tied to casino/gambling, alcohol, drugs, homosexual movements/propaganda.
+
+## Payment expectations
+
+~ 3000 USD per month, ~20 paid vacation days  etc.
+
+Relocation is discussable but adds ~700+ to payment expectations depending on the place 
 
 # Skills
 
