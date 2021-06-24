@@ -31,7 +31,7 @@ Linux happy user
 
 ## Payment expectations
 
-~ 3300 USD per month, ~20 paid vacation days  etc.
+~ 4000 USD per month, ~20 paid vacation days  etc.
 
 Relocation is discussable but adds ~700+ to payment expectations depending on the place 
 
