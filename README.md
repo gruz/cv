@@ -62,7 +62,7 @@ Relocation is discussable but adds ~700+ to payment expectations depending on th
 | Symfony   | 2    | 2018 | 2020      |
 | Less,Sass | 4    | 2017 | 2021      |
 | jQuery    | 5    | 2017 | 2021      |
-| Unit Tests| 1    | 2020 | 2020      |
+| Unit Tests| 2    | 2020 | 2021      |
 
 > CMS
 
