@@ -1,4 +1,4 @@
-# CV for a PHP developer position
+# CV for a Senior Full Stack Developer
 
 *Name*: Gruz
 
@@ -24,6 +24,14 @@ I worked:
 * for interest or idea
 * for fun
 
+Strong points:
+
+* Quick technology adoption
+* Deep understanding of web technologies
+* Full-stack development expertise
+* Linux system administration
+* Experience with high-load systems
+
 Linux happy user
 
 > *NOTE!* I don't work with/for Russian companies or companies with offices in Russia and for projects tied to casino/gambling, alcohol, drugs, homosexual movements/propaganda.
@@ -39,66 +47,68 @@ Relocation is discussable but adds ~700+ to payment expectations depending on th
 1 - lowest, 10 - the ideal knowledge level
 
 > Since there is no criteria to determine knowledge level, here is my rating assumtion.
-> 1-2 means I have very basic experience. Sometimes only tutorials and some theory. 3-4 - I have some practice. If I rate myself as 5, I assume that there are many people which know a subject better (6-7) and much better (8-9) then me. I assume that 10 reachable by very talented persons.
-> Programming, database and script languages
+> 1-2 means I have very basic experience. Sometimes only tutorials and some theory.
+> 3-4 - I have some practice. If I rate myself as 5, I assume that there are many people which know a subject better
+> (6-7) and much better (8-9) then me. I assume that 10 reachable by very talented persons.
+
+### Programming & Database
 
 | Skill name   | Level| Since| Last used |
 |--------------|------|------|-----------|
-| PHP          | 6    | 2017 | 2021      |
-| MySQL        | 4    | 2017 | 2021      |
-| PostgreSQL   | 5    | 2017 | 2021      |
-| JS           | 4    | 2017 | 2021      |
-| CSS          | 5    | 2017 | 2021      |
-| ElasticSearch| 3    | 2018 | 2021      |
+| PHP          | 8    | 2017 | 2025      |
+| PostgreSQL   | 6    | 2017 | 2025      |
+| MySQL        | 5    | 2017 | 2025      |
+| JavaScript   | 6    | 2017 | 2025      |
+| ElasticSearch| 6    | 2018 | 2025      |
+| REST API     | 7    | 2017 | 2025      |
 
-> Frameworks / technologies
+### Frameworks & Technologies
 
-| Skill name| Level| Since| Last used |
-|-----------|------|------|-----------|
-| Laravel   | 4    | 2017 | 2021      |
-| Symfony   | 2    | 2018 | 2020      |
-| Less,Sass | 4    | 2017 | 2021      |
-| jQuery    | 5    | 2017 | 2021      |
-| Unit Tests| 2    | 2020 | 2021      |
+| Skill name    | Level| Since| Last used |
+|---------------|------|------|-----------|
+| Laravel       | 8    | 2017 | 2025      |
+| Symfony       | 3    | 2018 | 2020      |
+| Writing tests | 6    | 2020 | 2025      |
 
-> CMS
+### Frontend Development
 
-| Skill name| Level| Since| Last used|
-|-----------|------|------|----------|
-| Joomla!   | 6    | 2017 | 2021     |
-| Word Press| 4    | 2017 | 2018     |
+| Skill name        | Level| Since| Last used |
+|-------------------|------|------|-----------|
+| SCSS/Sass         | 8    | 2017 | 2025      |
+| Responsive Design | 7    | 2017 | 2025      |
 
-> Some clever words to look cooler but of zero weight
-
-| Skill name| Level| Since| Last used|
-|-----------|------|------|----------|
-| HTML      | 5    | 2017 | 2021     |
-| MarkDown  | 6    | 2017 | 2021     |
-
-> VCS
-
-| Skill name                | Level| Since| Last used|
-|---------------------------|------|------|----------|
-| git (gitlab, githab)      | 5    | 2017 | 2021     |
-
-> Linux and server administration
+### System Administration
 
 | Skill name                      | Level| Since| Last used|
 |---------------------------------|------|------|----------|
-| Linux (OpenSuse, CentOS, Ubuntu)| 5    | 2017 | 2021     |
-| Apache                          | 3    | 2017 | 2021     |
-| Nginx                           | 3    | 2019 | 2021     |
-| SSH/Shell scripting             | 5    | 2017 | 2021     |
-| Docker                          | 4    | 2018 | 2021     |
+| Linux Server Administration     | 7    | 2017 | 2025     |
+| Apache/Nginx Configuration      | 6    | 2017 | 2025     |
+| Server Deployment & Maintenance | 7    | 2017 | 2025     |
+| Shell Scripting                 | 7    | 2017 | 2025     |
+| Docker                          | 6    | 2018 | 2025     |
+| SSL/TLS (Let's Encrypt)         | 6    | 2017 | 2025     |
+| Firewall Configuration         | 5    | 2017 | 2025     |
 
-> Other worth to be noted
+### Development Tools
+
+| Skill name                | Level| Since| Last used|
+|---------------------------|------|------|----------|
+| Git (GitLab, GitHub)      | 7    | 2017 | 2025     |
+
+### CMS Experience
 
 | Skill name| Level| Since| Last used|
 |-----------|------|------|----------|
-| Composer  | 5    | 2017 | 2021     |
-| Gulp      | 4    | 2017 | 2020     |
-| FusionPBX | 1    | 2017 | 2021     |
-| REST API  | 3    | 2017 | 2021     |
+| WordPress | 6    | 2017 | 2025     |
+| Joomla!   | 6    | 2017 | 2021     |
+
+### Other Technical Skills
+
+| Skill name| Level| Since| Last used|
+|-----------|------|------|----------|
+| BetaFlight| 4    | 2024 | 2024     |
+| Arduino   | 3    | 2024 | 2024     |
+| FusionPBX | 3    | 2017 | 2021     |
 
 ## Education
 
@@ -120,69 +130,85 @@ Relocation is discussable but adds ~700+ to payment expectations depending on th
 
 ### Experience - companies, projects, job places etc
 
-> Here I include only PHP development-tied jobs
-
 ---
+
 COMPANY:      agiliway.com
 
-POSITION:     PHP developer
+POSITION:     Senior Full Stack Developer
 
 START:        2018.02
+
+END:          2022.02
+
+DESCRIPTION:
+
+Architecture and Development:
+
+* Designed and implemented scalable web applications
+* Built and maintained high-performance REST APIs
+* Implemented real-time data synchronization between PostgreSQL and ElasticSearch
+* Developed multi-server architecture solutions
+* Experience with various PHP frameworks and technologies
+
+Security and Infrastructure:
+
+* Configured and maintained Linux servers
+* Set up and optimized web servers (Apache/Nginx)
+* Created and maintained Docker environments
+* Implemented comprehensive security measures
+
+Frontend Development:
+
+* Modern JavaScript development
+* Advanced CSS/SCSS implementation
+* Responsive design implementation
+
+Additional responsibilities:
+
+* System architecture design
+* Performance optimization
+* Database design and optimization
+* Team mentoring and technical leadership
+* Code review and documentation
+
+---
+
+POSITION: UAV Technical Specialist
+ORGANIZATION: Armed Forces of Ukraine
+PERIOD: 2022.02 - 2024.01
+
+Technical responsibilities:
+
+* Hardware configuration and maintenance of UAV systems
+* Custom antenna design and frequency optimization
+* Electronics diagnostics and repair
+* Integration of custom hardware solutions
+
+---
+
+COMPANY:      agiliway.com
+
+POSITION:     Senior Full Stack Developer
+
+START:        2024.01
 
 END:          -
 
 DESCRIPTION:
 
- Develop REST API
+Continuing previous responsibilities with additional focus on:
 
- ElasticSearch - create indexes, search, create a Laravel
- driven API to communicate with ElasticSearch
-
- Reindex on the fly. Developing a solution to reindex data to
- ElasticSearch upon any change (including manual) to the source Postgres DB
- (Involving Postgres triggers, Logical replication slots, developing a Laravel-side listener
- to consume Postgres changes notifications, Linux-side supervisord setup for Laraver queue workers)
-
- PDF programmatically manipulations (Blur, resize, apply OCR-recognized
- text to PDF-as-image file to make it text searchable)
-
- Creating a multitenancy solution for Laravel Voyager admin panel
-
- Create various docker environments (Including project with 2 php versions side by side)
-
- Writing bash scripts for automatic environment setup for other developers
-
- Maintain and setup linux servers for projects, debugging server-side issues,
- setting up Apache, nginx
-
- Create/maintain Gitlab CI/CD routines
-
- MsSQL to Postgres migration
-
- Writing automatics tests
-
- Moving old code PHP code to modern approaches
-
- Reworking old static JS code using modern JS approaches, adding gulp scripts to build
- one entry point modern JS code
-
- Creating/maintaining SASS/SCSS, JS (jQuery and pure JS, ES6+)
-
- Developing using:
-
-* Symfony, Laravel
-         * Voyager, October CMS, Pimcore
-* Cordova/Ionic
-* Django and python
-
- Wordpress, Joomla plugin development
-
- Acting as a team lead (code review, planning, mentoring)
+* System architecture optimization
+* Performance tuning of complex database queries
+* Refactoring and code maintenance
+* Migrating legacy codebase to the latest PHP version
+* Working on new features and improvements
 
 ---
+
 COMPANY:      Enli.io
 
-POSITION:     PHP developer
+POSITION:     PHP Developer
 
 START:        2017.04
 
@@ -190,7 +216,8 @@ END:          2017.12
 
 DESCRIPTION:
 
-    Developed a Laravel diven REST API for FusionPBX VOIP software, converted it to web-sockets.
-    Worked on different PHP backend and JS frontend tasks.
+* Developed REST API for FusionPBX VOIP software
+* Implemented WebSocket communication
+* Full stack development using PHP and JavaScript
 
 ---
